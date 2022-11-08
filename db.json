@@ -2,19 +2,29 @@
   "series": [
     {
       "name": "Gravity Falls",
-      "details": "An American mystery comedy animated television series created by Alex Hirsch for Disney Channel and Disney XD."
+      "details": "An American mystery comedy animated television series created by Alex Hirsch for Disney Channel and Disney XD.",
+      "tags": ["mystery", "animation", "comedy", "scifi", "romance", "complete"],
+      "url": "https://disneynow.com/shows/gravity-falls"
     }, {
       "name": "Eureka",
-      "details": "Set in the fictional town of Eureka, Southern Oregon. Most residents of Eureka are scientific geniuses who work for Global Dynamics – an advanced research facility responsible for the development of nearly all major technological breakthroughs since its inception."
+      "details": "Set in the fictional town of Eureka, Southern Oregon. Most residents of Eureka are scientific geniuses who work for Global Dynamics – an advanced research facility responsible for the development of nearly all major technological breakthroughs since its inception.",
+      "tags": ["scifi", "comedy", "romance", "live-action", "complete"],
+      "url": "https://www.imdb.com/title/tt0796264/"
     }, {
       "name": "Being Erica",
-      "details": "The show stars Erin Karpluk as Erica Strange, a woman who begins seeing a therapist to deal with regrets in her life, only to discover a therapist (Michael Riley) who has the ability to send her back in time to actually relive these events and even change them."
+      "details": "The show stars Erin Karpluk as Erica Strange, a woman who begins seeing a therapist to deal with regrets in her life, only to discover a therapist (Michael Riley) who has the ability to send her back in time to actually relive these events and even change them.",
+      "tags": ["romance", "trauma", "scifi", "healing", "comedy", "complete"],
+      "url": "https://www.imdb.com/title/tt1149608/"
     }, {
       "name": "Other Space",
-      "details": "Other Space is an American science fiction comedy streaming television series created by Paul Feig for Yahoo! Screen. Set in the 22nd century, it follows the dysfunctional crew of an exploratory spaceship who become trapped in an unknown universe."
+      "details": "Other Space is an American science fiction comedy streaming television series created by Paul Feig for Yahoo! Screen. Set in the 22nd century, it follows the dysfunctional crew of an exploratory spaceship who become trapped in an unknown universe.",
+      "tags": ["scifi", "comedy", "parody", "incomplete"],
+      "url": "https://www.imdb.com/title/tt4561950/"
     }, {
       "name": "Community",
-      "details": "Set at a community college in the fictional Colorado town of Greendale, the series stars an ensemble cast including Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, Chevy Chase, and Jim Rash."
+      "details": "Set at a community college in the fictional Colorado town of Greendale, the series stars an ensemble cast including Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, Chevy Chase, and Jim Rash.",
+      "tags": ["comedy", "incomplete", "romance", "culture"],
+      "url": "https://www.nbc.com/community/about"
     }
   ]
 }

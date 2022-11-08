@@ -1,10 +1,20 @@
 {
-			"data": [
-				[ { "value": "Row 1" }, { "value": "Row 1" }, { "value": "Row 1" } ],
-				[ { "value": "Row 2" }, { "value": "Row 2" }, { "value": "Row 2" } ],
-				[ { "value": "Row 3" }, { "value": "Row 3" }, { "value": "Row 3" } ],
-				[ { "value": "Row 4" }, { "value": "Row 4" }, { "value": "Row 4" } ],
-				[ { "value": "Row 5" }, { "value": "Row 5" }, { "value": "Row 5" } ]
-			],
-			"totalItems": 5
+  "series": [
+    {
+      "name": "Gravity Falls",
+      "details": "An American mystery comedy animated television series created by Alex Hirsch for Disney Channel and Disney XD."
+    }, {
+      "name": "Eureka",
+      "details": "Set in the fictional town of Eureka, Southern Oregon. Most residents of Eureka are scientific geniuses who work for Global Dynamics – an advanced research facility responsible for the development of nearly all major technological breakthroughs since its inception."
+    }, {
+      "name": "Being Erica",
+      "details": "The show stars Erin Karpluk as Erica Strange, a woman who begins seeing a therapist to deal with regrets in her life, only to discover a therapist (Michael Riley) who has the ability to send her back in time to actually relive these events and even change them."
+    }, {
+      "name": "Other Space",
+      "details": "Other Space is an American science fiction comedy streaming television series created by Paul Feig for Yahoo! Screen. Set in the 22nd century, it follows the dysfunctional crew of an exploratory spaceship who become trapped in an unknown universe."
+    }, {
+      "name": "Community",
+      "details": "Set at a community college in the fictional Colorado town of Greendale, the series stars an ensemble cast including Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, Chevy Chase, and Jim Rash."
+    }
+  ]
 }

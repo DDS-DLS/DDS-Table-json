@@ -3,28 +3,87 @@
     {
       "name": "Gravity Falls",
       "details": "An American mystery comedy animated television series created by Alex Hirsch for Disney Channel and Disney XD.",
-      "tags": ["mystery", "animation", "comedy", "scifi", "romance", "complete"],
+      "tags": [
+        "mystery",
+        "animation",
+        "comedy",
+        "scifi",
+        "romance",
+        "complete"
+      ],
       "url": "https://disneynow.com/shows/gravity-falls"
-    }, {
+    },
+    {
       "name": "Eureka",
       "details": "Set in the fictional town of Eureka, Southern Oregon. Most residents of Eureka are scientific geniuses who work for Global Dynamics – an advanced research facility responsible for the development of nearly all major technological breakthroughs since its inception.",
-      "tags": ["scifi", "comedy", "romance", "live-action", "complete"],
+      "tags": [
+        "scifi",
+        "comedy",
+        "romance",
+        "live-action",
+        "complete"
+      ],
       "url": "https://www.imdb.com/title/tt0796264/"
-    }, {
+    },
+    {
       "name": "Being Erica",
       "details": "The show stars Erin Karpluk as Erica Strange, a woman who begins seeing a therapist to deal with regrets in her life, only to discover a therapist (Michael Riley) who has the ability to send her back in time to actually relive these events and even change them.",
-      "tags": ["romance", "trauma", "scifi", "healing", "comedy", "complete"],
+      "tags": [
+        "romance",
+        "trauma",
+        "scifi",
+        "healing",
+        "comedy",
+        "live-action",
+        "complete"
+      ],
       "url": "https://www.imdb.com/title/tt1149608/"
-    }, {
+    },
+    {
       "name": "Other Space",
       "details": "Other Space is an American science fiction comedy streaming television series created by Paul Feig for Yahoo! Screen. Set in the 22nd century, it follows the dysfunctional crew of an exploratory spaceship who become trapped in an unknown universe.",
-      "tags": ["scifi", "comedy", "parody", "incomplete"],
+      "tags": [
+        "scifi",
+        "comedy",
+        "parody",
+        "live-action",
+        "incomplete"
+      ],
       "url": "https://www.imdb.com/title/tt4561950/"
-    }, {
+    },
+    {
       "name": "Community",
       "details": "Set at a community college in the fictional Colorado town of Greendale, the series stars an ensemble cast including Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, Chevy Chase, and Jim Rash.",
-      "tags": ["comedy", "incomplete", "romance", "culture"],
+      "tags": [
+        "comedy",
+        "incomplete",
+        "romance",
+        "live-action",
+        "culture"
+      ],
       "url": "https://www.nbc.com/community/about"
+    },
+    {
+      "name": "Agents of SHIELD",
+      "details": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.",
+      "tags": [
+        "scifi",
+        "drama",
+        "live-action",
+        "complete"
+      ],
+      "url": "https://www.imdb.com/title/tt2364582/?ref_=nv_sr_srsg_0"
+    },
+        {
+      "name": "The Ghost and Molly McGee",
+      "details": "A grumpy ghost named Scratch is eternally cursed to be in the presence of polar opposite Molly McGee, a cheerful tween.",
+      "tags": [
+        "youth",
+        "animation",
+        "comedy",
+        "ongoing"
+      ],
+      "url": "https://www.imdb.com/title/tt10684374/?ref_=nv_sr_srsg_0"
     }
   ]
 }

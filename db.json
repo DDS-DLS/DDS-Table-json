@@ -11,7 +11,8 @@
         "romance",
         "complete"
       ],
-      "url": "https://disneynow.com/shows/gravity-falls"
+      "url": "https://disneynow.com/shows/gravity-falls",
+      "tip": "Very Re-watchable, many one-liners, and lots of online extra content."
     },
     {
       "name": "Eureka",
@@ -23,7 +24,8 @@
         "live-action",
         "complete"
       ],
-      "url": "https://www.imdb.com/title/tt0796264/"
+      "url": "https://www.imdb.com/title/tt0796264/",
+      "tip": "Ingenious writers adapted to the writer's strike of the time.  Good crossover with Warehouse 13."
     },
     {
       "name": "Being Erica",
@@ -37,7 +39,8 @@
         "live-action",
         "complete"
       ],
-      "url": "https://www.imdb.com/title/tt1149608/"
+      "url": "https://www.imdb.com/title/tt1149608/",
+      "tip": "Progresses well, and avoids creating boredom by reinventing its purpose throughout."
     },
     {
       "name": "Other Space",
@@ -49,7 +52,8 @@
         "live-action",
         "incomplete"
       ],
-      "url": "https://www.imdb.com/title/tt4561950/"
+      "url": "https://www.imdb.com/title/tt4561950/",
+      "tip": "Sadly only one season due to Yahoo's streaming failure, but still worth watching."
     },
     {
       "name": "Community",
@@ -61,7 +65,8 @@
         "live-action",
         "culture"
       ],
-      "url": "https://www.nbc.com/community/about"
+      "url": "https://www.nbc.com/community/about",
+      "tip": "Stays strong throughout, despite later season cast changes."
     },
     {
       "name": "Agents of SHIELD",
@@ -72,7 +77,8 @@
         "live-action",
         "complete"
       ],
-      "url": "https://www.imdb.com/title/tt2364582/?ref_=nv_sr_srsg_0"
+      "url": "https://www.imdb.com/title/tt2364582/?ref_=nv_sr_srsg_0",
+      "tip": "Absolutely rock solid stories even though Marvel didn't keep its continuity promise."
     },
         {
       "name": "The Ghost and Molly McGee",
@@ -83,7 +89,8 @@
         "comedy",
         "ongoing"
       ],
-      "url": "https://www.imdb.com/title/tt10684374/?ref_=nv_sr_srsg_0"
+      "url": "https://www.imdb.com/title/tt10684374/?ref_=nv_sr_srsg_0",
+      "tip": "Lighthearted and silly, with a mini song in almost every episode."
     }
   ]
 }

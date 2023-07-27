@@ -1,4 +1,51 @@
 {
+  "grades": [
+    {
+      "name": "John Smith",
+      "date": "01/02/2023",
+      "score": 33
+    },
+    {
+      "name": "Larry Hackson",
+      "date": "09/30/2001",
+      "score": 57
+    },
+    {
+      "name": "John Smith",
+      "date": "07/08/2023",
+      "score": 98
+    },
+    {
+      "name": "Sarah Jane",
+      "date": "04/15/1968",
+      "score": 99
+    },
+    {
+      "name": "Anne Omundson",
+      "date": "11/15/1988",
+      "score": 88
+    },
+    {
+      "name": "Barry Johnson",
+      "date": "09/16/1993",
+      "score": 77
+    },
+    {
+      "name": "John Smith",
+      "date": "03/04/2023",
+      "score": 76
+    },
+    {
+      "name": "Lucy Billings",
+      "date": "04/22/1996",
+      "score": 80
+    },
+    {
+      "name": "Karen Miller",
+      "date": "05/05/2005",
+      "score": 55
+    }
+  ],
   "series": [
     {
       "name": "Gravity Falls",

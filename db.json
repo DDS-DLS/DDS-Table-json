@@ -1,4 +1,20 @@
 {
+  "components": [
+    {
+      "component": "Accordion",
+      "platform": ["Figma UI Kit", "Angular", "Vanilla"],
+      "status": ["Published", "In Backlog", "Published"]
+    },
+    {
+      "component": "Action Menu",
+      "platform": ["Figma UI Kit", "Angular", "Vanilla"],
+      "status": ["Published", "Published", "In Backlog"]
+    },{
+      "component": "Badge",
+      "platform": ["Figma UI Kit", "Angular", "Vanilla"],
+      "status": ["In Backlog", "Published", "Published"]
+    }
+  ],
   "grades": [
     {
       "name": "John Smith",
